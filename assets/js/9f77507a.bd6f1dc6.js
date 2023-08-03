@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkneo_dev_portal=self.webpackChunkneo_dev_portal||[]).push([[6566],{34289:function(a){a.exports=JSON.parse('{"allTagsPath":"/StreamAI/tutorials/tags","slug":"/StreamAI/tutorials/tags/java","name":"JAVA","count":4,"permalink":"/StreamAI/tutorials/tags/java"}')}}]);

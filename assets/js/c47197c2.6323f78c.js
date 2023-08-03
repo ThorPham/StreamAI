@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkneo_dev_portal=self.webpackChunkneo_dev_portal||[]).push([[1316],{82199:function(t){t.exports=JSON.parse('{"allTagsPath":"/StreamAI/tutorials/tags","slug":"/StreamAI/tutorials/tags/smart-contract","name":"SMART CONTRACT","count":4,"permalink":"/StreamAI/tutorials/tags/smart-contract"}')}}]);
